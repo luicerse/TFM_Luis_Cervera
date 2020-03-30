@@ -8,4 +8,16 @@ They are distributed as follows:
    ## 2. RPMs: 
    Normalises the read counts associated to the RFAM-filtered sRNA libraries.
    
+   ## 3. PCA:
    
+   ## 4. miRNA_hairpin_precursor_alignment
+   
+   ## 5. Heatmaps
+   
+   ## 6. sRNA_precursor_alignment
+   
+   ## 7. Differential_expression
+   
+   ## 8. Conectividad_miRNAs
+   
+   ## 9. antagonismo:
